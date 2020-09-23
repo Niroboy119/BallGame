@@ -1,2 +1,2 @@
 # BallGame
-Development of simple game
+Development of a simple game
